@@ -308,18 +308,6 @@ logging.level.org.hibernate.SQL=DEBUG
 - `GET /orders/admin` - Admin order listing
 - `POST /orders/admin/{id}/status` - Update order status (Admin)
 
-## 📝 License
 
-This project is licensed under the MIT License. See LICENSE file for details.
 
-## 📞 Support
 
-For support and questions:
-- Create an issue in the repository
-- Check existing issues for solutions
-- Review documentation and API endpoints
-- Follow troubleshooting guide above
-
----
-
-**🎉 Congratulations!** You now have a complete, production-ready e-commerce application built with modern technologies and best practices.
